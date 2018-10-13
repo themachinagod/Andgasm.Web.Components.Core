@@ -4,3 +4,9 @@
 
 /.vs
 /Web.Components.Core/.vs/Web.Components.Core
+/Web.Components.Core/Andgasm.Web.Components.Core/obj
+/Web.Components.Core/Andgasm.Web.Components.Core.Tests/obj
+/Web.Components.Core/Andgasm.Web.Components.Core/bin/Debug
+/Web.Components.Core/Andgasm.Web.Components.Core.Tests/bin/Debug/netcoreapp2.1
+/Web.Components.Core/Andgasm.Web.Components.Core/bin/Release
+/Web.Components.Core/Andgasm.Web.Components.Core.Tests/bin/Release/netcoreapp2.1
