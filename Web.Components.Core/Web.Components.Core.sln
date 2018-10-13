@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andgasm.Web.Components.Core", "Andgasm.Web.Components.Core\Andgasm.Web.Components.Core.csproj", "{F47D2A76-FD88-45E9-8BD6-06BC006CA7DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andgasm.Web.Components.Core.Tests", "Andgasm.Web.Components.Core.Tests\Andgasm.Web.Components.Core.Tests.csproj", "{BEC2D963-4D4A-433D-B443-E14863F2088C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Artifacts", "Artifacts", "{CB9318C7-14E9-43D1-89C4-67D25AA5DF53}"
+	ProjectSection(SolutionItems) = preProject
+		Andgasm.Web.Components.Core\obj\Release\Andgasm.Web.Components.Core.0.0.1.nuspec = Andgasm.Web.Components.Core\obj\Release\Andgasm.Web.Components.Core.0.0.1.nuspec
+		Andgasm.Web.Components.Core\obj\Release\Andgasm.Web.Components.Core.0.0.2.nuspec = Andgasm.Web.Components.Core\obj\Release\Andgasm.Web.Components.Core.0.0.2.nuspec
+		Andgasm.Web.Components.Core\obj\Release\Andgasm.Web.Components.Core.0.0.3.nuspec = Andgasm.Web.Components.Core\obj\Release\Andgasm.Web.Components.Core.0.0.3.nuspec
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47D2A76-FD88-45E9-8BD6-06BC006CA7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47D2A76-FD88-45E9-8BD6-06BC006CA7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47D2A76-FD88-45E9-8BD6-06BC006CA7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47D2A76-FD88-45E9-8BD6-06BC006CA7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC2D963-4D4A-433D-B443-E14863F2088C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC2D963-4D4A-433D-B443-E14863F2088C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC2D963-4D4A-433D-B443-E14863F2088C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC2D963-4D4A-433D-B443-E14863F2088C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DE3D86-0696-4FA3-AA20-ADA6D485E634}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://andgasm.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Andgasm.Web.Components.Core\\Andgasm.Web.Components.Core.csproj
+		SccProjectName1 = Andgasm.Web.Components.Core
+		SccLocalPath1 = Andgasm.Web.Components.Core
+		SccProjectUniqueName2 = Andgasm.Web.Components.Core.Tests\\Andgasm.Web.Components.Core.Tests.csproj
+		SccProjectName2 = Andgasm.Web.Components.Core.Tests
+		SccLocalPath2 = Andgasm.Web.Components.Core.Tests
+	EndGlobalSection
+EndGlobal
